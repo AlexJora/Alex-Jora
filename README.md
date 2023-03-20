@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I love the idea of making the web a useful and better place for everyone. Because I am naturally curious, I am always eager to learn new things. In my spare time, I like to hike, which helps me maintain a balance between my virtual and real life.</h3>
+<h3 align="center">I love the idea of making the internet a better and useful place for everyone. Being curious by nature, I am always eager to learn new things. In my spare time, I like to hike, which helps me keep a balance between my virtual and real life.</h3>
 
 - 🌱 I’m currently learning **React**
 
